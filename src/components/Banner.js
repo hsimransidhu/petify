@@ -7,7 +7,7 @@ function Banner() {
             <p>Your Pet needs Love <br /> Reach At <span className='hero'>Petify</span> </p>
             <div className='btns'>
                 <Button btn={'secondary-btn'} content={'Explore More'} />
-                <Button btn={'primary-btn'} content={'Get Started'} />
+                <Button btn={'primary-btn'} content={'Get Help'} />
             </div>
         </section>
     )

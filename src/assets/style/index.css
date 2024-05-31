@@ -85,7 +85,7 @@ button {
   font-size: 18px;
   text-transform: uppercase;
   font-weight: 700;
-  color: #0e0e0e;
+  color: #ffffff;
   transition: all 0.2s ease-in-out;
 }
 
@@ -97,14 +97,16 @@ button {
 }
 
 .primary-btn {
-  background-color:  #d396f1cc;
+  background-color:  #d396f1cc ;
   width: 160px;
   justify-self: end;
+ 
 }
  
 .secondary-btn {
   margin-right: 10px;
-  background-color:  #d396f1cc;
+  background-color: transparent ;
+  border: 1px solid  #d396f1cc;
  
 }
 
