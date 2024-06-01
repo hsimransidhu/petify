@@ -1,1 +1,1 @@
-cick ![here](https://hsimransidhu.github.io/petify/)
+cick [here](https://hsimransidhu.github.io/petify/)
